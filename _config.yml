@@ -16,7 +16,6 @@ permalink:          /notes/:title # Post permalink
 timezone:           Europe/Zurich # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Site Build
-highlighter:        pygments
 sass:
     style:          :compressed
 
