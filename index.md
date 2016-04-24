@@ -5,16 +5,16 @@ subtitle: Open-Source & Web Standards Consultant
 bubble: Hi there!
 ---
 
-Hi and wecome to my little corner of the web.
+Hi and welcome to my little corner of the web.
 
 My name is **Tobie Langel**. I live in Geneva, Switzerland.
 
-I work as an independant [open-source and web standards consultant](http://www.codespeaks.com)
+I work as an independent [open-source and web standards consultant](http://www.codespeaks.com)
 for companies such as Microsoft, Intel or Mozilla.
 I'm currently editing the [Generic Sensor API](https://w3c.github.io/sensors/)
 whose purpose it is to expose sensors to web applications.
 
-Previously, I worked as a software enginneer at Facebook
+Previously, I worked as a software engineer at Facebook
 and as W3C's Testing Lead.
 You can find out more about my past and present work on [Linkedin](https://ch.linkedin.com/in/tobielangel).
 It's generally up to date.
