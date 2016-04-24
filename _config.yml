@@ -1,0 +1,49 @@
+# Site Info
+title:              "Tobie Langel"
+description:        "Tobie Langel is an opeb-source and web standards consultant based in Geneva, Switzerland."
+google_verify:      #epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
+google_analytics:   UA-1506324-3 # Put your Google Analytics code
+
+# Author Info
+author_name:        "Tobie Langel"
+author_email:       tobie@codespeaks.com
+author_gravatar:    6d980c09cc3fd1913deb45d8c4b8d1a3 # Gravatar md5 hash
+twitter_username:   tobie
+
+# Site Settings
+baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
+permalink:          /notes/:title # Post permalink
+timezone:           Europe/Zurich # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Site Build
+highlighter:        pygments
+sass:
+    style:          :compressed
+
+# Other Params
+include:            [ "robots.txt" ]
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
+gems:
+  - jekyll-sitemap
+
+compress_html:
+    clippings:      all
+    ingore:
+        envs:       [ "test" ]
+
+defaults:
+  -
+    scope:
+      path:         ""
+    values:
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"
