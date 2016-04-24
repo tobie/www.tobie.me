@@ -15,7 +15,7 @@ whose purpose it is to expose sensors to web applications.
 
 Previously, I worked as a software enginneer at Facebook
 and as W3C's Testing Lead.
-You can find out more about my past and present work on [Linkedin](Public Profilehttps://ch.linkedin.com/in/tobielangel).
+You can find out more about my past and present work on [Linkedin](https://ch.linkedin.com/in/tobielangel).
 It's generally up to date.
 
 I [write code](https://github.com/tobie),
