@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tobie Langel
+subtitle: Open-Source & Web Standards Consultant
 bubble: Hi there!
 ---
 
@@ -26,9 +27,9 @@ A while back, I wrote [Helvetictoc](http://www.helvetictoc.com),
 a small web app that tells the time using words.
 Some people liked it so much it became a real clock in Durham, England.
 
-Here's a still, ironically taken before
+Here's a still--ironically taken before
 I noticed the host laptop was running Arial instead of Helvetica.
-Oh well!
+
 
 ![Helvetictoc displayed in Durham, Englad at night.](http://blog.internalreflections.co.uk/wp-content/uploads/2013/12/IMG_3135-Edit.jpg)
 <small>Photo credit: [Scott Silburn](http://blog.internalreflections.co.uk/).</small>
@@ -37,4 +38,4 @@ Want to get in touch? Shoot me an [email](mailto:tobie@codespeaks.com) or reach 
 
 Thanks for visiting.
 
---tobie
+\--tobie
