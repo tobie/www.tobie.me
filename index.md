@@ -34,3 +34,7 @@ Oh well!
 <small>Photo credit: [Scott Silburn](http://blog.internalreflections.co.uk/).</small>
 
 Want to get in touch? Shoot me an [email](mailto:tobie@codespeaks.com) or reach out on [twitter](https://twitter.com/tobie).
+
+Thanks for visiting.
+
+--tobie
