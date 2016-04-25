@@ -21,18 +21,15 @@ It's generally up to date.
 
 I [write code](https://github.com/tobie),
 [tweet](https://twitter.com/tobie),
-and occasionally post citations from articles that move me on [tumbler](http://blog.tobie.me/).
+and occasionally post citations from articles that move me on [tumblr](http://blog.tobie.me/).
 
 A while back, I wrote [Helvetictoc](http://www.helvetictoc.com),
 a small web app that tells the time using words.
 Some people liked it so much it became a real clock in Durham, England.
 
-Here's a still--ironically taken before
-I noticed the host laptop was running Arial instead of Helvetica.
-
-
-![Helvetictoc displayed in Durham, Englad at night.](http://blog.internalreflections.co.uk/wp-content/uploads/2013/12/IMG_3135-Edit.jpg)
-<small>Photo credit: [Scott Silburn](http://blog.internalreflections.co.uk/).</small>
+![Helvetictoc displayed in Durham, England at night.](http://blog.internalreflections.co.uk/wp-content/uploads/2013/12/IMG_3135-Edit.jpg)
+<small>Helvetictoc, ironically taken before
+I noticed the host laptop was running Arial instead of Helvetica. Photo by [Scott Silburn](http://blog.internalreflections.co.uk/).</small>
 
 Want to get in touch? Shoot me an [email](mailto:tobie@codespeaks.com) or reach out on [twitter](https://twitter.com/tobie).
 
