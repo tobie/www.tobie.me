@@ -27,9 +27,14 @@ A while back, I wrote [Helvetictoc](http://www.helvetictoc.com),
 a small web app that tells the time using words.
 Some people liked it so much it became a real clock in Durham, England.
 
-![Helvetictoc displayed in Durham, England at night.](http://blog.internalreflections.co.uk/wp-content/uploads/2013/12/IMG_3135-Edit.jpg)
-<small>Helvetictoc, ironically taken before
-I noticed the host laptop was running Arial instead of Helvetica. Photo by [Scott Silburn](http://blog.internalreflections.co.uk/).</small>
+<figure>
+    <img alt="Helvetictoc displayed in Durham, England at night." src="/images/helvetictoc.jpg" />
+    <figcaption>
+    Helvetictoc, ironically shot before
+    I noticed the host laptop was running Arial instead of Helvetica.<br>
+    Photo by <a href="http://blog.internalreflections.co.uk/">Scott Silburn</a>.
+    </figcaption>
+</figure>
 
 Want to get in touch? Shoot me an [email](mailto:tobie@codespeaks.com) or reach out on [twitter](https://twitter.com/tobie).
 
