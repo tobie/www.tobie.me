@@ -38,6 +38,12 @@ Some people liked it so much it became a real clock in Durham, England.
     </figcaption>
 </figure>
 
+In a previous life, I was
+[a](https://itunes.apple.com/album/estrella-del-norte/id253428236)
+[professional](https://itunes.apple.com/album/undividualism/id467494413)
+[jazz](https://itunes.apple.com/album/world-jazz-sound-la-longue/id555064703)
+[drummer](https://itunes.apple.com/album/why/id444915377).
+
 Want to get in touch? Shoot me an [email](mailto:tobie@codespeaks.com) or reach out on [twitter](https://twitter.com/tobie).
 
 Thanks for visiting.
