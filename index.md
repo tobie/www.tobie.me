@@ -16,8 +16,9 @@ which is used to describe interfaces implemented by web browsers,
 and the [Generic Sensor API](https://w3c.github.io/sensors/),
 which defines how sensors are exposed to the web.
 
-Previously, I worked as a software engineer at Facebook
-and as W3C's Testing Lead.
+Previously, I worked as a software engineer at Facebook,
+as Facebook's W3C Advisory Committee Representative,
+and W3C's Testing Lead.
 You can find out more about my past and present work on [Linkedin](https://ch.linkedin.com/in/tobielangel).
 It's generally up to date.
 
