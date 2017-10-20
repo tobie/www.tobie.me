@@ -12,9 +12,7 @@ My name is **Tobie Langel**. I live in Geneva, Switzerland.
 I work as an independent [open-source and web standards consultant](http://www.codespeaks.com)
 for companies such as Microsoft, Intel, Mozilla or Google.
 I'm currently editing [Web IDL](http://heycam.github.io/webidl/),
-which is used to describe interfaces implemented by web browsers,
-and the [Generic Sensor API](https://w3c.github.io/sensors/),
-which defines how sensors are exposed to the web.
+which is used to describe interfaces implemented by web browsers.
 
 Previously, I worked as a software engineer at Facebook,
 as Facebook's W3C Advisory Committee Representative,
