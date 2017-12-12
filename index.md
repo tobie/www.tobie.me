@@ -33,7 +33,7 @@ Some people liked it so much it became a real clock in Durham, England.
     <figcaption>
     Helvetictoc, ironically shot before
     I noticed the host laptop was running Arial instead of Helvetica.<br>
-    Photo by <a href="http://blog.internalreflections.co.uk/">Scott Silburn</a>.
+    Photo by <a href="http://internalreflections.co.uk/">Scott Silburn</a>.
     </figcaption>
 </figure>
 
