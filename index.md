@@ -14,7 +14,7 @@ for companies such as Microsoft, Intel, Mozilla, or Google.
 I'm currently editing [Web IDL](http://heycam.github.io/webidl/),
 which is used to describe interfaces implemented by web browsers.
 
-Previously, I worked as a software engineer in Facebook's Open-source and Web Standards Team,
+Previously, I worked as a software engineer in Facebook's Open-Source and Web Standards Team,
 as Facebook's W3C Advisory Committee Representative,
 and W3C's Testing Lead.
 You can find out more about my past and present work on [Linkedin](https://ch.linkedin.com/in/tobielangel).
