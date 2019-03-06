@@ -24,8 +24,8 @@ while being perceived as leaders in their field.
 
 My clients include top tech companies like Google, Microsoft, Intel, or Mozilla.
 
-I sit on [AMP](https://www.ampproject.org/)'s [Advisory Committee](https://github.com/ampproject/meta-ac) and
-the Advisory Board of [OASIS Open Projects](https://oasis-open-projects.org/).
+I sit on [AMP](https://www.ampproject.org/)'s [Advisory Committee](https://github.com/ampproject/meta-ac)
+and on the Advisory Board of [OASIS Open Projects](https://oasis-open-projects.org/).
 
 Previously, I was on Facebook's Open Source and Web Standards Team,
 Facebook's Advisory Committee Representative at the W3C,
