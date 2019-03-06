@@ -28,7 +28,7 @@ Previously, I was on Facebook's Open Source and Web Standards Team,
 Facebook's Advisory Committee Representative at the W3C,
 a [W3C Fellow](https://www.w3.org/Consortium/Recruitment/Fellows) supported by Facebook,
 and W3C's Testing Lead,
-where I helped kickstart [Web Platfrom Tests](https://github.com/web-platform-tests/wpt),
+where I helped kickstart [Web Platform Tests](https://github.com/web-platform-tests/wpt),
 a W3C-coordinated cross-browser testsuite for the Web-platform stack.
 I have edited various web standards,
 notably [Web IDL](http://heycam.github.io/webidl/),
