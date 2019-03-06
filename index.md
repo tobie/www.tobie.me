@@ -20,7 +20,7 @@ improve their teams’ efficiency and morale,
 adopt best practices,
 break internal silos,
 and improve their corporate culture,
-while being perceived as leaders in their space.
+while being perceived as leaders in their field.
 
 My clients include top tech companies like Google, Microsoft, Intel, or Mozilla.
 
