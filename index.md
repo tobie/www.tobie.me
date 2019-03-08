@@ -11,16 +11,8 @@ My name is **Tobie Langel**. I live in Geneva, Switzerland.
 
 I am the principal and founder of [UnlockOpen](https://unlockopen.com),
 a boutique consulting firm
-that helps large organizations think strategically about open source,
+that helps organizations think strategically about open source,
 and align their open source effort with desired business outcomes.
-This helps my clients
-launch successful open source projects,
-recruit, retain, and foster top software engineering talent,
-improve their teams’ efficiency and morale,
-adopt best practices,
-break internal silos,
-and improve their corporate culture,
-while being perceived as leaders in their field.
 
 My clients include top tech companies like Google, Microsoft, Intel, or Mozilla.
 
