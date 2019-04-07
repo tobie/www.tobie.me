@@ -36,7 +36,7 @@ I [write](https://medium.com/@tobie),
 [speak](https://speaking.unlockopen.com/), and
 [tweet](https://twitter.com/tobie) about open source on a regular basis.
 
-I also have a [mailing list](https://pages.convertkit.com/e4ed189bbd/af199f5836) that you can subscribe to.
+I also have a [mailing list](https://unlockopen.com/list) that you can subscribe to.
 
 An avid [open source contributor](https://github.com/tobie),
 I've notably co-maintained the [Prototype JavaScript Framework](https://en.wikipedia.org/wiki/Prototype_JavaScript_Framework),
