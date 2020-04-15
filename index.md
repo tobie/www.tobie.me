@@ -14,8 +14,10 @@ a boutique consulting firm
 that helps organizations think strategically about open source
 and align their open source effort with desired business outcomes.
 
-My clients include top tech companies like Google, Microsoft, Intel, or Mozilla.
+My clients include top tech companies like Google, Microsoft, Intel, Mozilla, or Airtable.
 
+I am a voting member of the [OpenJS Foundation](https://openjsf.org/)
+[Cross Project Council](https://openjsf.org/about/governance/).
 I sit on [AMP](https://www.ampproject.org/)'s [Advisory Committee](https://github.com/ampproject/meta-ac)
 and on the Advisory Board of [OASIS Open Projects](https://oasis-open-projects.org/).
 
