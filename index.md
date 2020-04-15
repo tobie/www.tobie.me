@@ -41,7 +41,7 @@ I [write](https://medium.com/@tobie),
 I also have a [mailing list](https://unlockopen.com/list) that you can subscribe to.
 
 An avid [open source contributor](https://github.com/tobie),
-I've notably co-maintained the [Prototype JavaScript Framework](https://en.wikipedia.org/wiki/Prototype_JavaScript_Framework),
+I notably co-maintained the [Prototype JavaScript Framework](https://en.wikipedia.org/wiki/Prototype_JavaScript_Framework),
 and released various open source projects,
 including an automated build system for editing standards on GitHub (used by W3C, WICG, WHATWG, and ECMA),
 and a JavaScript dependency resolver which powered Facebook's Pages iOS app.
