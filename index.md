@@ -22,13 +22,13 @@ I am a voting member of the [OpenJS Foundation](https://openjsf.org/)
 I facilitate [AMP](https://www.ampproject.org/)'s [Advisory Committee](https://github.com/ampproject/meta-ac),
 sit on [OASIS](https://www.oasis-open.org)'s [Open Projects Advisory Council](https://www.oasis-open.org/open-projects-advisory-council/) and
 on [Ushahidi]()'s [Advisory Board](https://www.ushahidi.com/about/team/), and
-advise the Omidyar Network's [Responsible Tech Initiative](https://omidyar.com/responsible-technology-2/) as a Senior Fellow. I also helped found the [Organization for Ethical Source](https://ethicalsource.dev), and was the organisation's first treasurer.
+advise the Omidyar Network's [Responsible Tech Initiative](https://omidyar.com/responsible-technology-2/) as a Senior Fellow. I also helped found the [Organization for Ethical Source](https://ethicalsource.dev), and was the organization's first treasurer.
 
 Previously, I was on Facebook's Open Source and Web Standards Team,
 Facebook's Advisory Committee Representative at the W3C,
 a [W3C Fellow](https://www.w3.org/Consortium/Recruitment/Fellows) supported by Facebook,
 and W3C's Testing Lead,
-where I helped kickstart [Web Platform Tests](https://github.com/web-platform-tests/wpt),
+where I [helped kickstart Web Platform Tests](https://www.w3.org/blog/2013/02/testing-the-open-web-platform/),
 a W3C-coordinated cross-browser testsuite for the web platform.
 I have edited various web standards,
 notably [Web IDL](http://heycam.github.io/webidl/),
