@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tobie Langel
-subtitle: Open source strategist
+subtitle: Open ecosystem strategist
 bubble: Hi there!
 ---
 
@@ -11,22 +11,25 @@ My name is **Tobie Langel**. I live in Geneva, Switzerland.
 
 I am the principal and founder of [UnlockOpen](https://unlockopen.com),
 a boutique consulting firm
-that helps organizations think strategically about open source
-and align their open source effort with desired business outcomes.
+that helps organizations build symbiotic,
+mutually beneficial relationships
+with open ecosystems.
 
-My clients include top tech companies like Google, Microsoft, Intel, Mozilla, or Airtable.
+I advise some of the biggest names in tech (Google, Microsoft, Mozilla, Intel, Cisco), promising startups (Airtable, Coil), industry organizations (OpenJS Foundation, OASIS, W3C) and nonprofits (Organization for Ethical Source, Ushahidi, Omidyar Network), _pro bono_ or through my consulting firm.
 
 I am a voting member of the [OpenJS Foundation](https://openjsf.org/)
 [Cross Project Council](https://openjsf.org/about/governance/).
-I sit on [AMP](https://www.ampproject.org/)'s [Advisory Committee](https://github.com/ampproject/meta-ac)
-and on the Advisory Board of [OASIS Open Projects](https://oasis-open-projects.org/).
+I facilitate [AMP](https://www.ampproject.org/)'s [Advisory Committee](https://github.com/ampproject/meta-ac),
+sit on [OASIS](https://www.oasis-open.org)'s [Open Projects Advisory Council](https://www.oasis-open.org/open-projects-advisory-council/) and
+on [Ushahidi]()'s [Advisory Board](https://www.ushahidi.com/about/team/), and
+advise the Omidyar Network's [Responsible Tech Initiative](https://omidyar.com/responsible-technology-2/) as a Senior Fellow. I also helped found the [Organization for Ethical Source](https://ethicalsource.dev), and was the organisation's first treasurer.
 
 Previously, I was on Facebook's Open Source and Web Standards Team,
 Facebook's Advisory Committee Representative at the W3C,
 a [W3C Fellow](https://www.w3.org/Consortium/Recruitment/Fellows) supported by Facebook,
 and W3C's Testing Lead,
 where I helped kickstart [Web Platform Tests](https://github.com/web-platform-tests/wpt),
-a W3C-coordinated cross-browser testsuite for the Web-platform stack.
+a W3C-coordinated cross-browser testsuite for the web platform.
 I have edited various web standards,
 notably [Web IDL](http://heycam.github.io/webidl/),
 which specifies the language used to define web interfaces 
@@ -36,9 +39,7 @@ You can find out more about my past and present work on [Linkedin](https://ch.li
 
 I [write](https://medium.com/@tobie),
 [speak](https://speaking.unlockopen.com/), and
-[tweet](https://twitter.com/tobie) about open source on a regular basis.
-
-I also have a [mailing list](https://unlockopen.com/list) that you can subscribe to.
+[tweet](https://twitter.com/tobie) about open source and standards, on a regular basis.
 
 An avid [open source contributor](https://github.com/tobie),
 I notably co-maintained the [Prototype JavaScript Framework](https://en.wikipedia.org/wiki/Prototype_JavaScript_Framework),
