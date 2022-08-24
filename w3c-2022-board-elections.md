@@ -5,7 +5,20 @@ subtitle: W3C, Inc. Board Elections
 bubble: Vote for me! ;)
 ---
 
-Re-posted from W3C's [Nominations and statements page](https://www.w3.org/2022/08/bod-nominations.html#tl).
+Hi and welcome!
+
+My name is Tobie Langel and I'm running for a seat on the Board of W3C's new legal entity.
+
+I'll add more information on this page about why I'm running, what I'm planning to do if I'm elected, etc. shortly. In the meantime, you can read my official statement below.
+
+If you want to learn more about me, here's a [short bio](https://www.tobie.me/), my [LinkedIn profile](https://www.linkedin.com/in/tobielangel/), and my [twitter account](https://twitter.com/tobie).
+
+If you have questions, thoughts, or jsut want to chat about W3C, please feel free to just [email me](mailto:tobie@unlockopen.com) or [schedule a call](https://savvycal.com/tobie/office-hours?d=30).
+
+
+## Tobie's Statement
+
+<small>Re-posted from [W3C's nominations and statements page](https://www.w3.org/2022/08/bod-nominations.html#tl) with a few links added.</small>
 
 I have been involved with W3C and web standards throughout my career and in a wide variety of roles. I’ve been the Advisory Committee Representative of one of the largest tech companies in the world (Facebook) and of one of the smallest (my own consultancy). I have created and co-chaired one of W3C first and largest community groups (Coremob). I have edited multiple specifications (Web IDL, Generic Sensor API) and contributed to many others at W3C and in other standard bodies. I leveraged my open source background to help accelerate and open up the spec editing process by moving it to GitHub, producing documentation to help editors get started and [open source](https://www.specref.org/) [tools](https://github.com/tobie/pr-preview#pr-preview) that you most probably still rely on today if you’re contributing to a spec.
 
