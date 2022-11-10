@@ -38,8 +38,9 @@ and its JavaScript bindings.
 You can find out more about my past and present work on [Linkedin](https://ch.linkedin.com/in/tobielangel).
 
 I [write](https://medium.com/@tobie),
-[speak](https://speaking.unlockopen.com/), and
-[tweet](https://twitter.com/tobie) about open source and standards, on a regular basis.
+[speak](https://speaking.unlockopen.com/),
+[tweet](https://twitter.com/tobie), and <a rel="me" href="https://mastodon.social/@tobie">toot</a>
+about open source and standards on a regular basis.
 
 An avid [open source contributor](https://github.com/tobie),
 I notably co-maintained the [Prototype JavaScript Framework](https://en.wikipedia.org/wiki/Prototype_JavaScript_Framework),
