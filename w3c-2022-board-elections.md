@@ -13,10 +13,10 @@ I'll add more information on this page about why I'm running, what I'm planning 
 
 If you want to learn more about me, here's a [short bio](https://www.tobie.me/), my [LinkedIn profile](https://www.linkedin.com/in/tobielangel/), and my [twitter account](https://twitter.com/tobie).
 
-If you have questions, thoughts, or jsut want to chat about W3C, please feel free to just [email me](mailto:tobie@unlockopen.com) or [schedule a call](https://savvycal.com/tobie/office-hours?d=30).
+If you have questions, thoughts, or just want to chat about W3C, please feel free to  [email me](mailto:tobie@unlockopen.com) or [schedule a call](https://savvycal.com/tobie/office-hours?d=30).
 
 
-## Tobie's Statement
+## My statement
 
 <small>Re-posted from [W3C's nominations and statements page](https://www.w3.org/2022/08/bod-nominations.html#tl) with a few links added.</small>
 
@@ -37,6 +37,3 @@ In heavily member-driven organizations, leadership positions often require a sig
 This felt different. I was seeing W3C really struggle in areas where I have significant expertise: a lot of my consulting work involves governance and financials of US and Swiss nonprofits; not to mention running my own consulting firm. I decided to step up. And in order to provide this effort with the needed attention, I sought and secured initial funding from a nonprofit in order to support my work should I be elected.
 
 I have a track record of collaborating effectively with W3C staff and the broader community, rolling my sleeves up, and not shying away from unglamorous infrastructure work that underpins the community; I have highly relevant expertise for this role; and I will be able to dedicate substantial time to move this effort forward.
-
-
-
